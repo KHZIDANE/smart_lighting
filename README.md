@@ -1,1 +1,1 @@
-# Smart Lighting Projrct
+# Smart Lighting Project
